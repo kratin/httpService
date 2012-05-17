@@ -1,0 +1,5 @@
+E:\TRAIN\GitHub\httpService\HttpServiceConSole\HttpServiceConSole\bin\Debug\HttpServiceConSole.exe
+E:\TRAIN\GitHub\httpService\HttpServiceConSole\HttpServiceConSole\bin\Debug\HttpServiceConSole.pdb
+E:\TRAIN\GitHub\httpService\HttpServiceConSole\HttpServiceConSole\obj\Debug\ResolveAssemblyReference.cache
+E:\TRAIN\GitHub\httpService\HttpServiceConSole\HttpServiceConSole\obj\Debug\HttpServiceConSole.exe
+E:\TRAIN\GitHub\httpService\HttpServiceConSole\HttpServiceConSole\obj\Debug\HttpServiceConSole.pdb
